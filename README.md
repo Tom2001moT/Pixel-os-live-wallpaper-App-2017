@@ -1,4 +1,4 @@
-#🥰
+**🥰by: WDG🥰**
 
 # ProShop: Full-Stack MERN E-commerce Platform
 
@@ -196,4 +196,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with setup, please open an issue in the GitHub repository.
 
-##🥰
+**🥰by: WDG🥰**
